@@ -2,28 +2,6 @@
 
 Welcome to GourmetGuide, your culinary companion for discovering delicious recipes!
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
-
-## Introduction
-GourmetGuide is a recipe application that offers a diverse collection of culinary delights. Whether you're a seasoned chef or a kitchen beginner, GourmetGuide has something for everyone. Explore a wide range of recipes, from breakfast to dinner to desserts, and embark on a gastronomic journey like never before.
-
-## Features
-- Extensive recipe collection categorized for easy exploration.
-- User-friendly interface with a dedicated home page for browsing all recipes.
-- Search functionality for finding specific recipes by name or ingredients.
-- Detailed recipe information, including ingredients, instructions, and nutritional facts.
-- User-friendly pagination for effortless recipe navigation.
-- Captivating food photography to tantalize your taste buds.
-- Intuitive design for an enhanced cooking experience.
-
 ## Getting Started
 Follow these instructions to get GourmetGuide up and running on your local machine.
 
@@ -31,7 +9,41 @@ Follow these instructions to get GourmetGuide up and running on your local machi
 - Node.js and npm installed (Node.js version X.X.X)
 - Expo CLI installed (if you plan to run the application on your device)
 
-### Installation
-1. Clone the repository to your local machine:
-   ```sh
-   git clone https://github.com/Ash2L/GourmetGuide.git
+# GourmetGuide Recipe App Setup Instructions
+
+To run the GourmetGuide Recipe App on your local machine, follow these steps:
+
+1. 
+    Use Expo Snack Link: https://snack.expo.dev/@acwp1/gourmetguide to download application or clone the GourmetGuide Recipe App repository from [GitHub](https://github.com/Ash2L/GourmetGuide).
+
+
+2. 
+    If you don't have Node.js and npm (Node Package Manager) installed, download and install them from [nodejs.org](https://nodejs.org/).
+
+3.
+   Open your terminal or command prompt and navigate to the project folder:
+     
+   cd path/to/GourmetGuide
+     
+
+4.
+   Run the following command to install the required dependencies:
+     
+    npm install
+     
+
+   This will install all the necessary packages and libraries needed for the app to work.
+
+5. 
+   Once the installation is complete, start the development server by running:
+    
+    expo start
+    
+
+6. 
+   If you want to run the app on your physical device, make sure you have the [Expo Go app](https://expo.dev/client) installed.
+   Scan the QR code from the Expo Developer Tools page with your Expo Go app to load the app on your device.
+
+That's it! You should now have the app up and running on your computer or mobile device. If you encounter any issues or have questions, feel free to reach out for assistance.
+
+Happy cooking!
